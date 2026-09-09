@@ -1,0 +1,14 @@
+.env
+.myenv/
+myenv/
+env/
+test/
+__pycache__/
+*.pyc
+
+.streamlit/secrets.toml
+
+data/*
+!data/.gitkeep
+
+*.zip
